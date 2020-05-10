@@ -11,7 +11,7 @@ typedef struct{
 } GIRIS;
 ARACBILGI arac_oz[1000];
 GIRIS arac_giris[1000];
-int s=0,a=0; //s=Arac sayisini gösterir.
+int s=0,a=0; //s=Arac sayisini gÃ¶sterir.
 int main(){
    Anamenu();
     return 0;
