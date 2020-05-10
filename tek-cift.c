@@ -7,7 +7,7 @@ int main()
     int sayilar[10], *diziPtr;
     int diziTek[10], *diziPT;
     int diziCift[10], *diziPC;
-    int a=0,b=0; //tek ve cift atamasý icin
+    int a=0,b=0; //tek ve cift atamasÃ½ icin
 
     diziPtr=sayilar;
     diziPT=diziTek;
